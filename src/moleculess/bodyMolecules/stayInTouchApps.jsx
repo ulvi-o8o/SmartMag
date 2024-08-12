@@ -9,7 +9,7 @@ import SocialInstagram from "../../atom/socialInstagram";
 const StayInTouchApps = () => {
   return (
     <div>
-      <div className="w-[90%] h-[200px] flex flex-wrap pl-[2%] gap-[5%] mt-[20px] ">
+      <div className="w-[100%] h-[200px] flex flex-wrap pl-[2%] gap-[5%] mt-[20px] ">
         <SocialFb />
         <SocialYoutube />
         <SocialTikTok />

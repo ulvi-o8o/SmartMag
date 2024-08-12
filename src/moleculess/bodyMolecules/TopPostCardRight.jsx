@@ -6,8 +6,7 @@ const TopPostCardRight = () => {
     <div className="flex flex-col gap-3">
       <div>
         <h3 className=" font-semibold text-xl">
-          Popular New Xbox Game Pass <br /> Game Being Review Bombed <br /> With
-          “0s”
+          Popular New Xbox Game Pass <br /> Game Being Review Bombed With “0s”
         </h3>
       </div>
       <div className=" flex flex row gap-3 ">

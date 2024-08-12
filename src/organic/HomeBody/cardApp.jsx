@@ -1,0 +1,3 @@
+function CardApp() {
+  return <Card />;
+}

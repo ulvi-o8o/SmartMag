@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://example.com/images/landscape.jpg"
+  },
+  {
+    "id": 2,
+    "title": "City Skyline",
+    "imageUrl": "https://example.com/images/city.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://example.com/images/landscape.jpg"
+  },
+  {
+    "id": 2,
+    "title": "City Skyline",
+    "imageUrl": "https://example.com/images/city.jpg"
+  }
+]

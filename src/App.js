@@ -1,15 +1,11 @@
 import React from "react";
 import "./style/style.scss";
-import Header from "./organic/Header";
-import Body from "./organic/Body";
-import Footer from "./organic/footer";
+import HomePage from "./pages/HomePage";
 
 const App = () => {
   return (
     <div>
-      <Header />
-      <Body />
-      <Footer />
+      <HomePage />
     </div>
   );
 };
