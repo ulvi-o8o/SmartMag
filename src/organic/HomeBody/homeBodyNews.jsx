@@ -27,10 +27,10 @@ const HomeBodyNews = () => {
         <Card />
         <Card />
       </div>
-      <div className="w-full h-[950px] bg-blue-900">
+      <div className="w-full h-[950px] bg-black">
         <div className="flex flex-row justify-center items-center p-[50px] gap-5">
           <div>
-            <h1 className="font-semibold text-2xl text-black">
+            <h1 className="font-semibold text-2xl text-white">
               Trending Videos
             </h1>
           </div>
@@ -46,7 +46,7 @@ const HomeBodyNews = () => {
             </div>
             <div className="w-[410px] h-[454px]  ">
               <TrendingCard className="h-[75px]" />
-              <TrendingCard />
+              <TrendingCard className="text-black" />
               <TrendingCard />
               <TrendingCard />
             </div>
