@@ -5,7 +5,7 @@ import Sponsor from "../../moleculess/bodyMolecules/sponsor";
 const HomeBody = () => {
   return (
     <div>
-      <div className="w-full h-[5000px]  pt-[50px] ">
+      <div className="w-full h-[4200px]  pt-[50px] ">
         <HomeBodyNews />
       </div>
     </div>

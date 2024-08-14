@@ -27,7 +27,7 @@ const HomeBodyNews = () => {
         <Card />
         <Card />
       </div>
-      <div className="w-full h-[950px] bg-black">
+      <div className="w-full h-[950px] bg-violet">
         <div className="flex flex-row justify-center items-center p-[50px] gap-5">
           <div>
             <h1 className="font-semibold text-2xl text-white">
